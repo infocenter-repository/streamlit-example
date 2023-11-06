@@ -6,5 +6,5 @@ import seaborn as sns
 # from sklearn.metrics import mean_squared_error
 
 df = pd.read_csv('ML TEST.csv')
-df
+df.head()
 
