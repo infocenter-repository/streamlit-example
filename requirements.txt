@@ -1,6 +1,6 @@
 altair
 pandas
 streamlit
-scikit-learn
+scikit_learn==1.1.1
 sklearn
 pickle
