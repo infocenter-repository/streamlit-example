@@ -1,6 +1,7 @@
 import numpy as np
 import pickle
 import streamlit as st
+from prophet import Prophet
 
 # loading the saved model
 loaded_model = pickle.load(open('trained_model.sav', 'rb'))
